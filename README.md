@@ -5,5 +5,6 @@ In this tutorial we are going to build an `api` using `NodeJS` with `ExpressJS` 
 * `Docker` [installed](https://docs.docker.com/get-docker/)
 * `ExpressJS` [installed](http://expressjs.com/en/starter/installing.html)
 
-The api that we are building is for a simple which contains list of costumers and output the list as json on port 3000.
+The api that we are building is for a simple ExpressJS app that simply has one endpoint and returns list of users.
+After that we will build a [Dockerfile]() that will allow us to produce a Docker image
 
